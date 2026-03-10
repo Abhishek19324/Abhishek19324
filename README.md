@@ -4,12 +4,9 @@
 
 ## 👨‍💻 About Me
 - 🔭 I’m currently a **Student**
-- 🌱 I’m currently learning **[Technologies/Frameworks]**
-- 👯 I’m looking to collaborate on **[Types of projects]**
-- 🤔 I’m looking for help with **[Specific topics]**
-- 💬 Ask me about **[Your expertise]**
-- 📫 How to reach me: **[Email or Twitter handle]**
-- ⚡ Fun fact: **[A fun fact about you]**
+- 🌱 I’m currently learning **[Data Analytics]**
+- 👯 I’m looking to collaborate on **[Dashboards]**
+- 📫 How to reach me: **[abhip2295@gmail.com]**
 
 ## 🛠️ Languages and Tools
 <p align="left"> 
@@ -32,6 +29,6 @@
 
 ## 🔗 Connect with me
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://twitter.com/YOUR_TWITTER" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/abhishek-lnu-764a1a251" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+
 </p>
